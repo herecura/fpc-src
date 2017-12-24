@@ -1,0 +1,1 @@
+update_pkgver=$(wget -q -O- "https://www.freepascal.org/download.var" | grep "The latest release is" | sed -e 's/.*>\(.*\)<.*/\1/')
