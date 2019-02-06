@@ -1,13 +1,12 @@
-# $Id$
 # Maintainer: BlackIkeEagle <ike DOT devolder AT gmail DOT com>
 # Contributor: Sergej Pupykin <pupykin.s+arch@gmail.com>
 # Contributor: Jens Adam <jra@byte.cx>
 
 pkgname=fpc-src
 pkgver=3.0.4
-pkgrel=1
+pkgrel=2
 pkgdesc='Sources for the FreePascal compiler (required by the Lazarus IDE)'
-url='http://www.freepascal.org/'
+url='https://www.freepascal.org/'
 license=('GPL')
 arch=('any')
 options=('!strip' 'staticlibs')
